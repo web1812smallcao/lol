@@ -13,8 +13,8 @@ import './lib/mui/css/mui.css'
 // 还需要加载图标字体文件
 import './lib/mui/css/icons-extra.css'
 import './assets/base.css'
-import 'swiper-4.5.0/dist/css/swiper.css'
-import 'swiper-4.5.0/dist/js/swiper.js'
+import 'swiper/dist/css/swiper.css'
+import 'swiper/dist/js/swiper.js'
 /*
 //按需加在mint-ui组件库中一个组件Header
 //1.按需引入Header

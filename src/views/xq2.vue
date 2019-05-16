@@ -41,7 +41,7 @@
   </div>
 </template>
 <script>
-import Swiper from 'swiper-4.5.0'
+import Swiper from 'swiper'
 import myFooter from "@/components/footer.vue"
 export default {
     data() {
